@@ -9,6 +9,29 @@ streamlit==1.38.0
 tiktoken
 ```
 
+## GGUF source
+Model card from [Bartowski repo](https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF)
+
+filename: `Llama-3.2-1B-Instruct-Q8_0.gguf`
+
+
+### Model card info
+Prompt format
+```
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+{system_prompt}<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+```
+N_CTX = `128k`
+
+stops = `['<|eot_id|>']`
+
+
 ### to be fixed
 - [ ] comments not giving error on rating `DeltaGenerator(_provided_cursor=LockedCursor(_index=3...`
 - [ ] logging to be fixed
