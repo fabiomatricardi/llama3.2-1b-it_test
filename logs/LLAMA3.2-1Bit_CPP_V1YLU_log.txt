@@ -5,7 +5,8 @@ Your own LocalGPT with 💻 Llama-3.2-1B-Instruct-Q8_0.gguf
 🧠🫡: You are a helpful assistant.
 💻: How can I assist you today in writing?
 👨‍💻 . Explain the plot of Cinderella in a sentence.
-💻 > In the classic fairy tale "Cinderella," a young woman named Cinderella, who is mistreated by her stepmother and stepsisters after her father's death, dreams of attending the royal ball where she hopes to catch the eye of her prince.
+💻 > In the classic fairy tale "Cinderella," a young woman named Cinderella, who is mistreated by her stepmother and stepsisters after 
+her father's death, dreams of attending the royal ball where she hopes to catch the eye of her prince.
 ---
 Prompt Tokens: 10
 Output Tokens: 50
@@ -15,14 +16,17 @@ TOTAL Tokens: 60
 >>>🧮 Inference speed:  16.872  t/s
 >>>🏍️ Generation speed: 14.060  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    Alignment Generation
 
 
 👨‍💻 > Hi there I am Fabio, a Medium writer. who are you?
-💻 > Hello Fabio, it's nice to meet you. I'm an AI assistant, but don't let that fool you – my knowledge is drawn from a massive dataset of text information and can engage in conversations like this one. While I don't have personal experiences or opinions like humans do, I'm always happy to chat with fellow writers about the world of mediumship, spirituality, and more.
+💻 > Hello Fabio, it's nice to meet you. I'm an AI assistant, but don't let that fool you – my knowledge is drawn from a massive dataset of 
+text information and can engage in conversations like this one. While I don't have personal experiences or opinions like humans do, 
+I'm always happy to chat with fellow writers about the world of mediumship, spirituality, and more.
 
-By the way, what kind of writing do you do as a Medium? Are there any specific areas of focus that interest you (e.g., guided meditations, past life readings, spiritual guidance)?
+By the way, what kind of writing do you do as a Medium? Are there any specific areas of focus that interest you (e.g., guided meditations, 
+past life readings, spiritual guidance)?
 ---
 Prompt Tokens: 15
 Output Tokens: 122
@@ -32,7 +36,7 @@ TOTAL Tokens: 137
 >>>🧮 Inference speed:  16.347  t/s
 >>>🏍️ Generation speed: 14.557  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    introduction
 
 
@@ -48,7 +52,7 @@ TOTAL Tokens: 42
 >>>🧮 Inference speed:  18.261  t/s
 >>>🏍️ Generation speed: 13.913  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    explain in one sentence
 
 
@@ -68,7 +72,7 @@ TOTAL Tokens: 370
 >>>🧮 Inference speed:  15.141  t/s
 >>>🏍️ Generation speed: 14.691  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    explain in three paragraphs
 
 
@@ -94,7 +98,7 @@ TOTAL Tokens: 417
 >>>🧮 Inference speed:  377.751  t/s
 >>>🏍️ Generation speed: 3.624  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    say 'I am ready'
 
 
@@ -139,7 +143,7 @@ TOTAL Tokens: 1250
 >>>🧮 Inference speed:  57.177  t/s
 >>>🏍️ Generation speed: 14.043  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 1 - the summary is good but 'the goal of achieving net zero by 2060 or sooner' is a totally made up information
 >>>✅ NLP TAKS:    summarize
 
 
@@ -172,7 +176,7 @@ TOTAL Tokens: 1051
 >>>🧮 Inference speed:  124.509  t/s
 >>>🏍️ Generation speed: 12.558  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    Summarize in two sentences
 
 
@@ -212,7 +216,7 @@ TOTAL Tokens: 1042
 >>>🧮 Inference speed:  187.485  t/s
 >>>🏍️ Generation speed: 12.415  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    Write in a list the three main key points -  format output
 
 
@@ -254,7 +258,7 @@ TOTAL Tokens: 1089
 >>>🧮 Inference speed:  119.221  t/s
 >>>🏍️ Generation speed: 13.356  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    Table of Contents
 
 
@@ -290,7 +294,7 @@ TOTAL Tokens: 983
 >>>🧮 Inference speed:  561.443  t/s
 >>>🏍️ Generation speed: 1.713  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 1 - wrong user intent and wrong understanding of the prompt
 >>>✅ NLP TAKS:    RAG
 
 
@@ -327,7 +331,7 @@ TOTAL Tokens: 996
 >>>🧮 Inference speed:  641.961  t/s
 >>>🏍️ Generation speed: 1.934  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 1 - considering the test before thereply is non trustable
 >>>✅ NLP TAKS:    Truthful RAG
 
 
@@ -382,7 +386,7 @@ TOTAL Tokens: 1844
 >>>🧮 Inference speed:  29.371  t/s
 >>>🏍️ Generation speed: 14.080  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 2 - this is not a 5 paraghraph essay, there are 2 conclusions too
 >>>✅ NLP TAKS:    write content from a reference
 
 
@@ -425,7 +429,7 @@ TOTAL Tokens: 1267
 >>>🧮 Inference speed:  57.257  t/s
 >>>🏍️ Generation speed: 14.461  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 1 - eevn though the user intent is fulfilled, there is a made up information 'to be carbon neutral by 2060'
 >>>✅ NLP TAKS:    extract 5 topics
 
 
@@ -476,7 +480,7 @@ TOTAL Tokens: 1091
 >>>🧮 Inference speed:  13.995  t/s
 >>>🏍️ Generation speed: 13.097  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 5
 >>>✅ NLP TAKS:    Creativity: 1000 words SF story
 
 
@@ -639,7 +643,7 @@ TOTAL Tokens: 2082
 >>>🧮 Inference speed:  18.012  t/s
 >>>🏍️ Generation speed: 15.045  t/s
 >>>📝 Logfile:     logs/LLAMA3.2-1Bit_CPP_V1YLU_log.txt
->>>💚 User rating: PUT IT LATER
+>>>💚 User rating: 0 - wrong tag uses, incoherent structure, repetitions
 >>>✅ NLP TAKS:    Reflection prompt
 
 
